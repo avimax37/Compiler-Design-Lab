@@ -5,6 +5,8 @@ Semester: Sixth
 Department: Computer Science and Engineering
 
 Questions
+
+
 Q1. Write a C program to identify the valid comments in a program. (Assigment 1)
 
 Q2. Write a C program to identify the valid identifiers inside a program. (Assignment 1)

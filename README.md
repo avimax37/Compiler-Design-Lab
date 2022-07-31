@@ -1,4 +1,4 @@
-▶️ Programming Language: C, LEX<br />
+▶️ Programming Language: C, LEX, YACC<br />
 ▶️ Semester: Sixth<br />
 ▶️ Department of Computer Science UEMK<br />
 

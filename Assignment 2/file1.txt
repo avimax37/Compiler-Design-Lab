@@ -1,0 +1,11 @@
+#include <stdio.h> // adding the header file
+
+// main function calling
+int main (){
+	int a = 5;  // integer 1
+	int b = 6;  // integer 2
+	int c;
+	c = a + b; // addition operation
+	printf ("%d", c);  // printing the result
+	return 0;
+}
